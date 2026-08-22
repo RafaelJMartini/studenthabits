@@ -1,0 +1,5 @@
+/.venv/
+/.env
+/.ipynb_checkpoints/
+/data/silver/student_habits_silver.parquet
+__pycache__/
